@@ -44,7 +44,7 @@ Usage
 CSV Formatting
 ===
 
-Please refer to the IGDA Credit SIGs crediting standards for guidelines on how to properly credit developers: (link)
+Please refer to the IGDA Credit SIGs [crediting standards](https://docs.google.com/document/d/1UugKrEZaQISmKiE6jqnNqSmoyQE-h3ju_W_Do_hJEqU) or the simplified [one-sheet version](https://docs.google.com/document/d/1-7h1QfjKlY1GWZURWzWubwil035xYT02IlgtINlgPnE) for guidelines on how to properly credit developers.
 
 * The first row of the CSV should have the column "Format" followed by a column for each potential column named "Column#", where # is the number of the column of data starting at 1 (e.g. "Column1", "Column2", etc)
 ![image](https://user-images.githubusercontent.com/4603367/223575457-7935443a-2f8b-4214-9501-60edaf6c72e8.png)
